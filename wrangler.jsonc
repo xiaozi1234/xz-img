@@ -1,0 +1,7 @@
+{
+  "name": "xz-img",
+  "compatibility_date": "2025-04-09",
+  "assets": {
+    "directory": "./dist"
+  }
+}
